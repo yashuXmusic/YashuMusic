@@ -1,5 +1,5 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "Yashu Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
     "repository": "https://github.com/ITZ-ZAID/Zaid-Vc-Player",
@@ -28,7 +28,7 @@
         "BOT_USERNAME": {
             "description": "fill with telegram id of account",
             "required": true,
-            "value": "Zaid2_Robot"
+            "value": "Yashu2_Robot"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
